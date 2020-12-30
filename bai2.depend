@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1609323844 source:c:\users\user\documents\bai2\main.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<cstring>
+	<string.h>
+	<string>
+	<stdio.h>
+
